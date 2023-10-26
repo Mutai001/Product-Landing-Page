@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    text-align: center;
+    background-color: #e10909;
+    padding: 10px;
+}
+
+section {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #0dc29b;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label, input, button {
+    margin: 5px 0;
+}
+
+button {
+    width: 100px;
+    align-self: flex-end;
+}
+

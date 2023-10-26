@@ -1,0 +1,27 @@
+/* reset */
+
+body{
+    background-color: #c4fcef;
+}
+header{
+    background-color: red;
+    margin-top: 0;
+    margin-right: 0;
+    position: relative;
+}
+.fa-weibo{
+    color: #ffffff;
+    size: 100em;
+    font-family: sans-serif;
+    background-color: #4d8076;
+}
+nav ul li a{
+    float: right;
+    margin-right: 0;
+    text-decoration: none;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
